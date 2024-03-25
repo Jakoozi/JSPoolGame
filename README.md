@@ -1,11 +1,11 @@
 <h1>Classic-Pool-Game</h1>
-<small>© Chen Shmilovich - 2018.</small>
+<small>© SKY GAMES - 2024.</small>
 <br>
 
 <hr>
 
-**A Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool).  
-**Same functionality with better and more readable code.**
+<!-- **A Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool).  
+**Same functionality with better and more readable code.** -->
 
 <hr>
 
@@ -42,5 +42,7 @@ https://henshmi.github.io/Classic-Pool-Game/
   Bossa Antigua Kevin MacLeod (incompetech.com)<br>
   Licensed under Creative Commons: By Attribution 3.0 License<br>
   http://creativecommons.org/licenses/by/3.0/
+
+
 
 

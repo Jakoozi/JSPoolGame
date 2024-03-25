@@ -56,9 +56,9 @@ Canvas2D_Singleton.prototype.resize = function () {
     gameArea.style.height = newHeight + 'px';
 
     gameArea.style.marginTop = (window.innerHeight - newHeight) / 2 + 'px';
-    gameArea.style.marginLeft = (window.innerWidth - newWidth) / 2 + 'px';
-    gameArea.style.marginBottom = (window.innerHeight - newHeight) / 2 + 'px';
-    gameArea.style.marginRight = (window.innerWidth - newWidth) / 2 + 'px';
+    gameArea.style.marginLeft = (window.innerWidth - newWidth) / 200 + 'px';
+    gameArea.style.marginBottom = (window.innerHeight - newHeight) / 200 + 'px';
+    gameArea.style.marginRight = (window.innerWidth - newWidth) / 200 + 'px';
 
     gameCanvas.width = newWidth;
     gameCanvas.height = newHeight;

@@ -48,6 +48,7 @@ function GameWorld() {
     this.stick = new Stick({ x : 413, y : 413 });
 
     this.gameOver = false;
+
 }
 
 GameWorld.prototype.getBallsSetByColor = function(color){
